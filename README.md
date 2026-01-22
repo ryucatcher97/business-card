@@ -1,5 +1,5 @@
 # Getting Started
-say baby dont cry 
+say baby dont cry some day ill be fineee
 
 npm install
 npm start
