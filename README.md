@@ -1,5 +1,6 @@
 # Getting Started
-lalallallala```
+say baby dont cry 
+
 npm install
 npm start
 ```
